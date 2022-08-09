@@ -6,8 +6,8 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int i = 0;
 
-while (i < num)
+while (i < num-1)
 {
     i += 2;
-    Console.Write( i );
+    Console.Write( i + ", ");
 }

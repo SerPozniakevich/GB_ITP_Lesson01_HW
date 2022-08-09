@@ -9,5 +9,5 @@ int i = -num-1;
 while (i < num)
 {
     i += 1;
-    Console.Write( i );
+    Console.Write( i + ", ");
 }
