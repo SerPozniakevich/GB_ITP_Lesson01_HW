@@ -21,6 +21,6 @@ else
 }
 if(num1 == num2)
 {
-   Console.Write("Ravnye"); 
+   Console.Write("Equal"); 
 }   
     
